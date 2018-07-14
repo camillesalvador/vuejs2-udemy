@@ -1,1 +1,1 @@
-# vuejs2-udemy
+# vuejs2-udemy solutions
